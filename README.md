@@ -1,22 +1,6 @@
 # EntitiesMigration Plugin to Copy Sitecore Commerce Entities Between Environments
 
-*by* Sergey YatsenkoJuly 17, 2019
-
-- 
--  
-
-- 
--  
-
-- 
--  
-
-- 
--  
-
-- 
-
-
+*by* Sergey Yatsenko, July 17, 2019
 
 ## Overview
 
